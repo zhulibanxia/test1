@@ -1,1 +1,2 @@
-这是我第一次在windows上提交git代码
+这是我第一次在windows上提交git代码;
+通过分支修改bug;
